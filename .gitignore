@@ -1,0 +1,37 @@
+# Build and object files
+bin/
+obj/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Visual Studio and IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.sln.iml
+*.swp
+*.swo
+*~
+.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+logs/
+
+# Claude Code
+.claude/
+
+# Runtime
+*.pdb
