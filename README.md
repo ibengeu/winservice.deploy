@@ -201,7 +201,3 @@ This tool is designed to be project-agnostic and can be used for any Windows Ser
 3. Run the tool from any location
 
 You can maintain separate `appsettings.json` configurations for different projects or use the interactive prompts to specify paths at runtime.
-
-## License
-
-Part of the Optimus project suite. Can be used across multiple projects.
